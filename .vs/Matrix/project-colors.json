@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32ca5ca9-1551-4fa5-811e-60f6bf7d1f2b": {
+      "ProjectGuid": "32ca5ca9-1551-4fa5-811e-60f6bf7d1f2b",
+      "DisplayName": "©ThorstenBylicki | 25.10.2021",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Sonstige Dateien",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

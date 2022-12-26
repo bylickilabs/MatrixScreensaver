@@ -1,0 +1,7 @@
+C:\Users\xray8\Desktop\Code\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\xray8\Desktop\Code\Matrix\bin\Debug\Matrix.exe
+C:\Users\xray8\Desktop\Code\Matrix\bin\Debug\Matrix.pdb
+C:\Users\xray8\Desktop\Code\Matrix\obj\Debug\Matrix.csproj.AssemblyReference.cache
+C:\Users\xray8\Desktop\Code\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\xray8\Desktop\Code\Matrix\obj\Debug\Matrix.exe
+C:\Users\xray8\Desktop\Code\Matrix\obj\Debug\Matrix.pdb
